@@ -1,0 +1,1 @@
+default['putty']['version'] = "0.64"
