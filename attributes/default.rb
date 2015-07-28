@@ -1,1 +1,1 @@
-default['putty']['version'] = "0.64"
+default['putty']['version'] = :latest
